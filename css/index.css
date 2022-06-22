@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto",sans-serif;
+}
+body{
+    min-height: 100vh;
+    background: url(../images/TARJETA-DE-PRESENTACION_01.gif)no-repeat;
+    background: url(../images/TARJETA-DE-PRESENTACION_02.gif)no-repeat;
+    background-size: cover;
+    background-position:center ;
+}
